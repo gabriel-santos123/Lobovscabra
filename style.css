@@ -1,6 +1,8 @@
 body{
     text-align: center;
     background-color: black; color: aliceblue;
+    font-size: 50%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1{
     font-size: 200%
